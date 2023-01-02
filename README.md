@@ -27,3 +27,4 @@
  
 </div>
 
+  ![snake gif](https://github.com/LuisMassuchini/LuisMassuchini/blob/output/github-contribution-grid-snake.svg)
