@@ -1,11 +1,14 @@
-<div align = "center">
-  <h3>
-Tenho 27 anos, estou em fase de transição de carreira pra área Tech...
-Estou cursando TI pela a Univesp e procuro oportunidades de estágio e vaga nível Júnior na área de front ou back... Tenho conhecimento e experiência de desenvolvimento com Javascript, Typescript, NodeJs, ReactJs, HTML, CSS e Sass..
+<div align = "center", text-align = "center">
+  <div
+    <h3>Me chamo Luís Felipe Massuchini.</h3>
+    <h5>
+    Tenho 27 anos, estou em fase de transição de carreira pra área Tech...
+Estou cursando TI pela a Univesp <br>e procuro oportunidades de estágio e vaga nível Júnior na área de front ou back... Tenho conhecimento e experiência de desenvolvimento com <br><strong>Javascript, Java, NodeJs, ReactJs, HTML, CSS e Sass.</strong>
 
 Estou estudando desde o início do ano passado, sou uma pessoa muito determinada e positiva, gosto de trabalhar em equipe e de desafios!
+  </h5>
 
-</h3>
+</div>
  </div>
 
 # <div align = center> Follow me: </div>
