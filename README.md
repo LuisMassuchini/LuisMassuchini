@@ -3,7 +3,7 @@
     <h3>Me chamo Luís Felipe Massuchini.</h3>
     <h5>
     Tenho 27 anos, estou em fase de transição de carreira pra área Tech...
-Estou cursando TI pela a Univesp <br>e procuro oportunidades de estágio e vaga nível Júnior na área de front ou back... Tenho conhecimento e experiência de desenvolvimento com <br><strong>Javascript, Java, NodeJs, ReactJs, HTML, CSS e Sass.</strong>
+Estou cursando TI pela a Univesp <br>e procuro oportunidades de estágio e vaga nível Júnior na área de front ou back... Tenho conhecimento e experiência de desenvolvimento com <br><strong>Javascript, Java, NodeJs, ReactJs, HTML, CSS .</strong>
 
 Estou estudando desde o início do ano passado, sou uma pessoa muito determinada e positiva, gosto de trabalhar em equipe e de desafios!
   </h5>
