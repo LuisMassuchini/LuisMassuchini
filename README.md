@@ -2,10 +2,19 @@
   <div
     <h3>Me chamo Luís Felipe Massuchini.</h3>
     <h5>
-    Tenho 27 anos, estou em fase de transição de carreira pra área Tech...
-Estou cursando TI pela a Univesp <br>e procuro oportunidades de estágio e vaga nível Júnior na área de front ou back... Tenho conhecimento e experiência de desenvolvimento com <br><strong>Javascript, Java, NodeJs, ReactJs, HTML, CSS .</strong>
+    Recentemente, decidi redirecionar minha carreira para a área de desenvolvimento e
+me tornei um desenvolvedor Full Stack Jr. Possuo conhecimento sólido em Java e sou
+capaz de criar projetos em Spring Boot. Estou empenhado na constante melhoria das
+minhas habilidades técnicas e ansioso para contribuir em projetos desafiadores no
+ambiente de desenvolvimento Java, além de adquirir conhecimentos sólidos em
+bancos de dados e versionamento de código com Git.
+Além disso, estou cursando Ciência de Dados e adquirindo experiência nesse campo,
+buscando integrar os conhecimentos de desenvolvimento com as habilidades
+analíticas necessárias nesse campo em constante evolução. Estou também estudando
+Python, visando ampliar minhas habilidades e tornar-me um profissional ainda mais
+versátil e completo, com o objetivo final de me tornar um Cientista de Dados altamente
+qualificado.
 
-Estou estudando desde o início do ano passado, sou uma pessoa muito determinada e positiva, gosto de trabalhar em equipe e de desafios!
   </h5>
 
 </div>
