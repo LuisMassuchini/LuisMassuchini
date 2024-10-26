@@ -2,18 +2,18 @@
   <div
     <h3>Me chamo Luís Felipe Massuchini.</h3>
     <h5>
-    Recentemente, decidi redirecionar minha carreira para a área de desenvolvimento e
-me tornei um desenvolvedor Full Stack Jr. Possuo conhecimento sólido em Java e sou
-capaz de criar projetos em Spring Boot. Estou empenhado na constante melhoria das
-minhas habilidades técnicas e ansioso para contribuir em projetos desafiadores no
-ambiente de desenvolvimento Java, além de adquirir conhecimentos sólidos em
-bancos de dados e versionamento de código com Git.
-Além disso, estou cursando Ciência de Dados e adquirindo experiência nesse campo,
-buscando integrar os conhecimentos de desenvolvimento com as habilidades
-analíticas necessárias nesse campo em constante evolução. Estou também estudando
-Python, visando ampliar minhas habilidades e tornar-me um profissional ainda mais
-versátil e completo, com o objetivo final de me tornar um Cientista de Dados altamente
-qualificado.
+    Recentemente, redirecionei minha carreira para a área de dados, onde tenho buscado aprimorar meu conhecimento técnico e analítico, focando em ferramentas e linguagens de programação aplicadas à ciência de dados.
+
+Estou em formação na área de Ciência de Dados, com sólidos conhecimentos em Java e Python e experiência com bancos de dados e versionamento de código com Git. Meu objetivo é integrar habilidades técnicas e analíticas para interpretar dados de forma estratégica, apoiando a tomada de decisões e gerando insights valiosos para o negócio.
+
+Estou preparado para aplicar essas habilidades em um papel como Analista de Dados ou Cientista de Dados, em um ambiente dinâmico e orientado por dados.
+
+
+
+
+
+
+
 
   </h5>
 
