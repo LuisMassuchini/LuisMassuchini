@@ -33,7 +33,19 @@ Resultados e aprendizados principais:
 
 ### Câmara Municipal de Jacareí — Estágio em Desenvolvimento
 
-Em 2024, manutenção evolutiva de sistemas PHP, JavaScript e Java, incluindo uploads, assinatura de PDFs, controle de acesso, integração HMAC e preparação para a modernização da stack.
+Em 2024, participei da manutenção e da modernização incremental do SiCom, sistema interno da Câmara Municipal usado por diferentes secretarias. O trabalho combinou a evolução de aplicações legadas em PHP e JavaScript com a estruturação de uma API RESTful em Java/Spring Boot e uma interface Angular.
+
+Principais áreas trabalhadas:
+
+- Autenticação baseada em matrícula e controle de acesso por cargo/perfil.
+- Módulos de Ouvidoria e Dúvidas Jurídicas, incluindo registros, edição, filtros e permissões diferenciadas.
+- Protocolos legislativos, com tipos de trabalho, sessões, prazos e múltiplos arquivos associados.
+- Fluxo de requerimentos com avanço por etapas e regras de domínio.
+- Gestão de usuários, cargos, departamentos, gabinetes e arquivos.
+- Upload, download e organização de documentos com armazenamento configurável.
+- Evolução de uma interface PHP/JavaScript existente para uma SPA modular em Angular.
+
+A principal característica foi a migração incremental, com foco em preservar as regras do negócio e reduzir a dependência do legado passo a passo.
 
 ### Fort's Store — Proprietário e gestor de negócio
 
@@ -46,7 +58,9 @@ De 2013 a 2023. Experiência anterior à transição para engenharia de software
 - [api-gestao-camara](https://github.com/LuisMassuchini/api-gestao-camara)
 - [sistema-camara-frontend](https://github.com/LuisMassuchini/sistema-camara-frontend)
 
-API RESTful em Spring Boot e interface Angular para evolução de um sistema legado, com autenticação, autorização por perfil e operações sobre documentos.
+O conjunto representa a modernização do SiCom, um sistema interno de gestão de processos. A API em Spring Boot concentra autenticação, permissões, módulos de Ouvidoria e Dúvidas Jurídicas, protocolos legislativos, requerimentos, sessõesativas, usuários, cargos, departamentos, gabinetes e arquivos. A SPA Angular consome esses contratos e organiza a experiência por secretaria e perfil de acesso.
+
+O estudo de caso evidencia modernização incremental de um legado PHP/JavaScript, modelagem de regras de workflow, controle de acesso, operações de arquivos e separação entre API e interface.
 
 ### Camera Viewer
 
