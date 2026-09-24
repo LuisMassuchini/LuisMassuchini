@@ -55,6 +55,14 @@ De 2013 a 2023. Experiência anterior à transição para engenharia de software
 
 ## Projetos em destaque
 
+### Outbox & Observability Lab
+
+- [outbox-observability-lab](https://github.com/LuisMassuchini/outbox-observability-lab)
+
+Laboratório público de Transactional Outbox, resiliência e observabilidade executado inteiramente em containers. A aplicação demonstra gravação atômica de pedidos e eventos, retry com backoff, idempotência, estado `DEAD`, integração com WireMock, métricas Prometheus, logs JSON e cinco cenários E2E com Robot Framework.
+
+O projeto também inclui testes unitários, cobertura JaCoCo, CI e uma suíte de regressão reproduzível usando apenas Docker Desktop.
+
 ### Sistema de gestão da Câmara Municipal
 
 - [api-gestao-camara](https://github.com/LuisMassuchini/api-gestao-camara)
@@ -69,6 +77,12 @@ O estudo de caso evidencia modernização incremental de um legado PHP/JavaScrip
 - [camera-viewer-app](https://github.com/LuisMassuchini/camera-viewer-app)
 
 Visualizador Flutter para câmeras Yoosee usando MediaMTX, WebRTC e controle PTZ.
+
+### Regressão E2E em containers
+
+- [e2e-regression-lab](https://github.com/LuisMassuchini/e2e-regression-lab)
+
+Laboratório de regressão executável com Docker, PostgreSQL, WireMock, Python e Robot Framework, focado em redes de regressão para serviços backend.
 
 ### Projetos de estudo e início de trajetória
 
