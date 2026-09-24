@@ -92,7 +92,9 @@ Laboratório de regressão executável com Docker, PostgreSQL, WireMock, Python 
 
 ## Formação
 
-- Ciência de Dados — UNIVESP, em andamento
+- Bacharelado em Tecnologia da Informação — UNIVESP, concluído
+- Logística — Anhanguera, concluído
+- Bacharelado em Ciência de Dados — UNIVESP, em andamento
 - Técnico em Desenvolvimento de Sistemas — Fundação Anchieta, concluído
 - Técnico em Administração — Etec Conego José Bento, concluído
 
