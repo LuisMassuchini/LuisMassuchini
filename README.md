@@ -6,6 +6,8 @@ Desenvolvedor Backend na IEZ Telecom, atuante no SOA de portabilidade numérica 
 
 - [LinkedIn](https://www.linkedin.com/in/luis-massuchini/)
 - [GitHub](https://github.com/LuisMassuchini)
+- [E-mail](mailto:luis.massuchini@gmail.com)
+- [WhatsApp](https://wa.me/5512988571571)
 - [Portfólio](https://luismassuchini.github.io/LuisMassuchini/)
 
 ## Foco profissional
